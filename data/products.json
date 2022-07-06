@@ -1,0 +1,279 @@
+[
+  {
+    "brand": "Claude_Dare",
+    "title": "Veronica92",
+    "category": "T-shirts",
+    "variants": [
+      {
+        "size": "L",
+        "price": 16,
+        "color": "#E64D66",
+        "count": 58
+      },
+      {
+        "size": "XXXl",
+        "price": 7,
+        "color": "#99E6E6",
+        "count": 64
+      },
+      {
+        "size": "M",
+        "price": 7,
+        "color": "#B366CC",
+        "count": 35
+      },
+      {
+        "size": "L",
+        "price": 67,
+        "color": "#66991A",
+        "count": 53
+      },
+      {
+        "size": "XXXl",
+        "price": 80,
+        "color": "#B3B31A",
+        "count": 54
+      },
+      {
+        "size": "M",
+        "price": 56,
+        "color": "#33FFCC",
+        "count": 22
+      }
+    ],
+    "description": "Donato_Barrows",
+    "ratingsAverage": 0,
+    "brand_thumbnail": "Micaela_Mosciski",
+    "ratingsQuantity": 20
+  },
+  {
+    "brand": "Imogene.Olson",
+    "title": "Reese.Gorczany",
+    "category": "Sportswear",
+    "variants": [],
+    "description": "Santos_Witting",
+    "ratingsAverage": 3,
+    "brand_thumbnail": "Irving93",
+    "ratingsQuantity": 47
+  },
+  {
+    "brand": "Carolyne24",
+    "title": "Joel.Padberg21",
+    "category": "Pants",
+    "variants": [
+      {
+        "size": "XXL",
+        "price": 59,
+        "color": "#99E6E6",
+        "count": 11
+      },
+      {
+        "size": "XXL",
+        "price": 41,
+        "color": "#B3B31A",
+        "count": 45
+      },
+      {
+        "size": "XXL",
+        "price": 61,
+        "color": "#66991A",
+        "count": 40
+      }
+    ],
+    "description": "Kristian.Stanton",
+    "ratingsAverage": 2,
+    "brand_thumbnail": "Lela_Pacocha86",
+    "ratingsQuantity": 59
+  },
+  {
+    "brand": "Maudie_Lynch",
+    "title": "Walker_West",
+    "category": "Pants",
+    "variants": [
+      {
+        "size": "S",
+        "price": 38,
+        "color": "#33FFCC",
+        "count": 42
+      },
+      {
+        "size": "M",
+        "price": 51,
+        "color": "#4D8066",
+        "count": 27
+      },
+      {
+        "size": "L",
+        "price": 35,
+        "color": "#B366CC",
+        "count": 1
+      },
+      {
+        "size": "XXL",
+        "price": 5,
+        "color": "#FFFF99",
+        "count": 17
+      },
+      {
+        "size": "M",
+        "price": 26,
+        "color": "#1AFF33",
+        "count": 68
+      },
+      {
+        "size": "S",
+        "price": 77,
+        "color": "#809900",
+        "count": 44
+      }
+    ],
+    "description": "Camila88",
+    "ratingsAverage": 0,
+    "brand_thumbnail": "Hershel_Schamberger72",
+    "ratingsQuantity": 35
+  },
+  {
+    "brand": "Rose.Graham63",
+    "title": "Braden_Ullrich94",
+    "category": "Pants",
+    "variants": [
+      {
+        "size": "M",
+        "price": 16,
+        "color": "#809900",
+        "count": 74
+      },
+      {
+        "size": "XXL",
+        "price": 49,
+        "color": "#FF1A66",
+        "count": 67
+      },
+      {
+        "size": "XXXl",
+        "price": 32,
+        "color": "#E6FF80",
+        "count": 52
+      },
+      {
+        "size": "M",
+        "price": 5,
+        "color": "#FFFF99",
+        "count": 42
+      }
+    ],
+    "description": "Blanche.Lindgren",
+    "ratingsAverage": 1,
+    "brand_thumbnail": "Shad.Armstrong",
+    "ratingsQuantity": 71
+  },
+  {
+    "brand": "Josefa.Champlin72",
+    "title": "Else65",
+    "category": "T-shirts",
+    "variants": [
+      {
+        "size": "M",
+        "price": 2,
+        "color": "#1AB399",
+        "count": 26
+      }
+    ],
+    "description": "Clarabelle86",
+    "ratingsAverage": 5,
+    "brand_thumbnail": "Augusta_Carroll30",
+    "ratingsQuantity": 32
+  },
+  {
+    "brand": "Darrick68",
+    "title": "Ned68",
+    "category": "Shirts",
+    "variants": [
+      {
+        "size": "M",
+        "price": 39,
+        "color": "#99FF99",
+        "count": 30
+      },
+      {
+        "size": "XL",
+        "price": 58,
+        "color": "#E64D66",
+        "count": 55
+      }
+    ],
+    "description": "Mandy13",
+    "ratingsAverage": 4,
+    "brand_thumbnail": "Kris.Labadie71",
+    "ratingsQuantity": 61
+  },
+  {
+    "brand": "Darian.Kautzer",
+    "title": "Macie_Veum",
+    "category": "Shirts",
+    "variants": [
+      {
+        "size": "M",
+        "price": 47,
+        "color": "#99E6E6",
+        "count": 12
+      },
+      {
+        "size": "M",
+        "price": 7,
+        "color": "#99FF99",
+        "count": 33
+      }
+    ],
+    "description": "Tyreek52",
+    "ratingsAverage": 4,
+    "brand_thumbnail": "Kasey_Farrell61",
+    "ratingsQuantity": 7
+  },
+  {
+    "brand": "Santos95",
+    "title": "Dave_Koepp",
+    "category": "Shirts",
+    "variants": [
+      {
+        "size": "S",
+        "price": 17,
+        "color": "#00B3E6",
+        "count": 30
+      }
+    ],
+    "description": "Marshall50",
+    "ratingsAverage": 0,
+    "brand_thumbnail": "Berniece.Swaniawski83",
+    "ratingsQuantity": 24
+  },
+  {
+    "brand": "Treva.Grant77",
+    "title": "Dock.Gottlieb",
+    "category": "T-shirts",
+    "variants": [
+      {
+        "size": "XL",
+        "price": 36,
+        "color": "#CC80CC",
+        "count": 5
+      },
+      {
+        "size": "L",
+        "price": 26,
+        "color": "#FF4D4D",
+        "count": 23
+      },
+      {
+        "size": "S",
+        "price": 50,
+        "color": "#CC9999",
+        "count": 74
+      }
+    ],
+    "description": "Victor.Friesen58",
+    "ratingsAverage": 2,
+    "brand_thumbnail": "Tyson.Rutherford56",
+    "ratingsQuantity": 63
+  }
+]
