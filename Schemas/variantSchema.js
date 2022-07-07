@@ -75,6 +75,10 @@ const variant = {
     required: true,
     default: 1,
   },
+  images: {
+    type: [String],
+    validate: [(val) => val.length >= 4, '{PATH} must have at least 4 images'],
+  },
 };
 
 const variantSchema = new mongoose.Schema(variant);
